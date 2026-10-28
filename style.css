@@ -1,0 +1,31 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+nav{
+  background-color: green;
+}
+
+nav ul{
+  margin: 0;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding: 10px;
+}
+
+main{
+  display: flex;
+    
+}
+
+main img{
+  width: 250px; /* altera a largura para 250 pixels */
+}
+
+p{
+  font-size: 30px;
+}
+
